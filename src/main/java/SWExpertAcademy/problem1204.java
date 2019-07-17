@@ -1,33 +1,25 @@
-import java.util.Scanner;
+import java.util.*;
 import java.io.*;
 public class problem1204{
-    public static void main(String[] args){
-		Scanner sc = new Scanner(System.in);
-        int T = sc.nextInt(); //Test Case
-        int[][] input = new int[T][101];
-        //init the array
-        for(int i=0;i<T;i++)
-            for(int j=0;j<101;j++){
-                input[i][j]=0;
+    public static void main(String[] args) throws NumberFormatException, IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+		int T = Integer.parseInt(br.readLine());
+		for(int i=1;i<=T;i++){
+		    br.readLine();
+		    int[] score = new int[101];
+		    int answer = 0;
+		    StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+		    while(st.hasMoreTokens()){
+		        int num = Integer.parseInt(st.nextToken());
+		        score[num]++;
             }
-        //get the Input data
-        for(int i = 0;i<T;i++){
-            sc.nextInt();
-            for(int j=0;j<1000;j++){
-                input[i][sc.nextInt()]++;
+		    for (int j=0;j<101;j++){
+		        if ( score[answer] <= score[j])
+		            answer = j;
             }
-        }
-        //logic
-        for(int i=0;i<T;i++){
-            int max = input[i][0];
-            int index=0;
-            for(int j=1;j<101;j++){
-                if(max<= input[i][j]){
-                    max = input[i][j];
-                    index = j;
-                }
-            }
-            System.out.print("#"+ (i+1)+" " +index+"\n");
+
+		    System.out.println("#"+ i+ " "+ answer);
         }
     }
 }
