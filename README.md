@@ -26,6 +26,7 @@ Language: JAVA
 * 1026 - [보물](src/main/java/Baekjoon/problem1026.java)
 * 2309 - [일곱 난쟁이](src/main/java/Baekjoon/problem2309.java)
 * 4963 - [섬의 개수](src/main/java/Baekjoon/problem4963.java)
+* 7576 - [토마토](src/main/java/Baekjoon/problem7576.java)
 * 11047 - [동전0](src/main/java/Baekjoon/problem11047.java)
 * 11399 - [ATM](src/main/java/Baekjoon/problem11399.java)
 * 11403 - [경로 찾기](src/main/java/Baekjoon/problem11403.java)
@@ -40,7 +41,7 @@ Language: JAVA
 * 16234 - [인구 이동](src/main/java/Baekjoon/problem16234.java)
 * 17070 - [파이프 옮기기1](src/main/java/Baekjoon/problem17070.java)
 * 17136 - [색종이 붙이기](src/main/java/Baekjoon/problem17136.java)
-* 17144 - [미세먼지 안녕!](src/main/java/Baekjoon/problem17144java)
+* 17144 - [미세먼지 안녕!](src/main/java/Baekjoon/problem17144.java)
 
 </details>
 
@@ -49,13 +50,13 @@ Language: JAVA
 
 ​    
 
-    * [카펫](src/main/java/Programmers/Carpet.java)
-    * [순열 검사](src/main/java/Programmers/CheckPermutation.java)
-    * [자릿수 더하기](src/main/java/Programmers/DigitSum.java)
-    * [땅따먹기](src/main/java/Programmers/Landing.java)
-    * [네트워크](src/main/java/Programmers/Network.java)
-    * [타겟 넘버](src/main/java/Programmers/TargetNumber.java)
-    * [단어 변환](src/main/java/Programmers/WordConversion.java)
+* [카펫](src/main/java/Programmers/Carpet.java)
+* [순열 검사](src/main/java/Programmers/CheckPermutation.java)
+* [자릿수 더하기](src/main/java/Programmers/DigitSum.java)
+* [땅따먹기](src/main/java/Programmers/Landing.java)
+* [네트워크](src/main/java/Programmers/Network.java)
+* [타겟 넘버](src/main/java/Programmers/TargetNumber.java)
+* [단어 변환](src/main/java/Programmers/WordConversion.java)
 
 </details>
 
