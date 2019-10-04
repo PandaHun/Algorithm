@@ -9,7 +9,7 @@ public class problem7576 {
     private static int[][] box;
     private static int[] dr = {0, 0, -1, 1};
     private static int[] dc = {-1, 1, 0, 0};
-    private static Queue<Position> apples;
+    private static Queue<Position> tomatos;
     public static void main( String[] args ) throws IOException, NumberFormatException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
@@ -17,14 +17,14 @@ public class problem7576 {
         N = Integer.parseInt(st.nextToken());
         box = new int[N][M];
 
-        apples = new LinkedList<>();
+        tomatos = new LinkedList<>();
         for(int i = 0 ; i<N;i++){
             st = new StringTokenizer(br.readLine()," ");
             for(int j = 0; j<M;j++){
                 int tmp = Integer.parseInt(st.nextToken());
                 box[i][j] = tmp;
                 if(tmp == 1)
-                    apples.offer(new Position(i, j, 0));
+                    tomatos.offer(new Position(i, j, 0));
             }
         }
 
@@ -33,8 +33,8 @@ public class problem7576 {
 
     static void solve(){
         int day = 0;
-        while(!apples.isEmpty()){
-            Position now = apples.poll();
+        while(!tomatos.isEmpty()){
+            Position now = tomatos.poll();
             day = now.day;
             for(int i = 0; i<4; i++){
                 int nr = dr[i] + now.r;
@@ -42,7 +42,7 @@ public class problem7576 {
                 if( nr >=0&& nr < N && nc>=0 && nc<M){
                     if(box[nr][nc]==0){
                         box[nr][nc] = 1;
-                        apples.offer(new Position(nr,nc, now.day+1));
+                        tomatos.offer(new Position(nr,nc, now.day+1));
                     }
                 }
             }
