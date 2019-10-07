@@ -90,5 +90,6 @@ Language: JAVA
 * [S/W 문제해결 응용 1일차 - 단순 2진 암호코드](src/main/java/SWExpertAcademy/problem1240.java)
 * [수도 요금 경쟁](src/main/java/SWExpertAcademy/problem1284.java)
 * [정사각형의 방](src/main/java/SWExpertAcademy/problem1861.java)
+* [부분수열의 합](src/main/java/SWExpertAcademy/problem2817.java)
 * [치즈 도둑](src/main/java/SWExpertAcademy/problem7733.java)
   </details>
