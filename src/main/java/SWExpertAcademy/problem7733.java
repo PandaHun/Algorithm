@@ -3,7 +3,7 @@ package SWExpertAcademy;
 import java.io.*;
 import java.util.*;
 
-public class probelm7733 {
+public class problem7733 {
 
     static int[][] MAP;
     static boolean[][] visited;
