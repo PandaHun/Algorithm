@@ -30,7 +30,7 @@ Language: JAVA
 * 2667 - [단지번호붙이기](src/main/java/Baekjoon/problem2667.java)
 * 4963 - [섬의 개수](src/main/java/Baekjoon/problem4963.java)
 * 7562 - [나이트의 이동](src/main/java/Baekjoon/problem7562.java)
-* 7576 - [토마토](src/main/java/Baekjoon/problem7576.java)
+* 7576 - [토마토](src/main/java/Baekjoon/problem7576.java) / [[blog]](https://freepanda.tistory.com/entry/BOJ-7576-%ED%86%A0%EB%A7%88%ED%86%A0JAVA?category=835732)
 * 11047 - [동전0](src/main/java/Baekjoon/problem11047.java)
 * 11399 - [ATM](src/main/java/Baekjoon/problem11399.java)
 * 11403 - [경로 찾기](src/main/java/Baekjoon/problem11403.java)
@@ -45,6 +45,7 @@ Language: JAVA
 * 16234 - [인구 이동](src/main/java/Baekjoon/problem16234.java)
 * 17070 - [파이프 옮기기1](src/main/java/Baekjoon/problem17070.java)
 * 17136 - [색종이 붙이기](src/main/java/Baekjoon/problem17136.java)
+* 17144 - [낚시왕](src/main/java/Baekjoon/problem17143.java) 
 * 17144 - [미세먼지 안녕!](src/main/java/Baekjoon/problem17144.java)
 
 </details>
