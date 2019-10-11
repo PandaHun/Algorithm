@@ -45,7 +45,7 @@ Language: JAVA
 * 16234 - [인구 이동](src/main/java/Baekjoon/problem16234.java)
 * 17070 - [파이프 옮기기1](src/main/java/Baekjoon/problem17070.java)
 * 17136 - [색종이 붙이기](src/main/java/Baekjoon/problem17136.java)
-* 17144 - [낚시왕](src/main/java/Baekjoon/problem17143.java) 
+* 17143 - [낚시왕](src/main/java/Baekjoon/problem17143.java) 
 * 17144 - [미세먼지 안녕!](src/main/java/Baekjoon/problem17144.java)
 
 </details>
