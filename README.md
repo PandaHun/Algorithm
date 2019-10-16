@@ -29,8 +29,10 @@ Language: JAVA
 * 1697 - [숨바꼭질](src/main/java/Baekjoon/problem1697.java)
 * 2178 - [미로 탐색](src/main/java/Baekjoon/problem2178.java)
 * 2309 - [일곱 난쟁이](src/main/java/Baekjoon/problem2309.java)
+* 2455 - [지능형 기차](src/main/java/Baekjoon/problem2455.java)
 * 2606 - [바이러스](src/main/java/Baekjoon/problem2606.java)
 * 2667 - [단지번호붙이기](src/main/java/Baekjoon/problem2667.java)
+* 3055 - [탈출](src/main/java/Baekjoon/problem3055.java)
 * 4963 - [섬의 개수](src/main/java/Baekjoon/problem4963.java)
 * 7562 - [나이트의 이동](src/main/java/Baekjoon/problem7562.java)
 * 7576 - [토마토](src/main/java/Baekjoon/problem7576.java) / [[blog]](https://freepanda.tistory.com/entry/BOJ-7576-%ED%86%A0%EB%A7%88%ED%86%A0JAVA?category=835732)
@@ -97,6 +99,7 @@ Language: JAVA
 * [S/W 문제해결 응용 1일차 - 단순 2진 암호코드](src/main/java/SWExpertAcademy/problem1240.java)
 * [수도 요금 경쟁](src/main/java/SWExpertAcademy/problem1284.java)
 * [정사각형의 방](src/main/java/SWExpertAcademy/problem1861.java)
+* [농작물 수확하기](src/main/java/SWExpertAcademy/problem2805.java)
 * [부분수열의 합](src/main/java/SWExpertAcademy/problem2817.java)
 * [치즈 도둑](src/main/java/SWExpertAcademy/problem7733.java)
   </details>
