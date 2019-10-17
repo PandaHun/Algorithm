@@ -48,8 +48,10 @@ Language: JAVA
 * 14890 - [경사로](src/main/java/Baekjoon/problem14890.java)
 * 14891 - [톱니바퀴](src/main/java/Baekjoon/problem14891.java)
 * 16234 - [인구 이동](src/main/java/Baekjoon/problem16234.java)
+* 16235 - [나무 재테크](src/main/java/Baekjoon/problem16235.java)
 * 17070 - [파이프 옮기기1](src/main/java/Baekjoon/problem17070.java)
 * 17136 - [색종이 붙이기](src/main/java/Baekjoon/problem17136.java)
+* 17140 - [이차원 배열과 연산](src/main/java/Baekjoon/problem17140.java) 
 * 17143 - [낚시왕](src/main/java/Baekjoon/problem17143.java) 
 * 17144 - [미세먼지 안녕!](src/main/java/Baekjoon/problem17144.java)
 
