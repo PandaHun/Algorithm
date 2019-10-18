@@ -51,6 +51,7 @@ Language: JAVA
 * 14890 - [경사로](src/main/java/Baekjoon/problem14890.java)
 * 14891 - [톱니바퀴](src/main/java/Baekjoon/problem14891.java)
 * 15683 - [감시](src/main/java/Baekjoon/problem15683.java)
+* 15686 - [치킨 배달](src/main/java/Baekjoon/problem15686.java)
 * 16234 - [인구 이동](src/main/java/Baekjoon/problem16234.java)
 * 16235 - [나무 재테크](src/main/java/Baekjoon/problem16235.java)
 * 17070 - [파이프 옮기기1](src/main/java/Baekjoon/problem17070.java)
