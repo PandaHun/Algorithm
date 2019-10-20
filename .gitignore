@@ -9,3 +9,5 @@ gradle
 .DS_Store
 gradlew
 *.bat
+*.gradle
+.gitattributes
