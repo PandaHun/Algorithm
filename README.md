@@ -28,6 +28,7 @@ Language: JAVA
 * 1260 - [DFS와 BFS](src/main/java/Baekjoon/problem1260.java)
 * 1697 - [숨바꼭질](src/main/java/Baekjoon/problem1697.java)
 * 1717 - [집합의 표현](src/main/java/Baekjoon/problem1717.java)
+* 1987 - [알파벳](src/main/java/Baekjoon/problem1987.java)
 * 2178 - [미로 탐색](src/main/java/Baekjoon/problem2178.java)
 * 2309 - [일곱 난쟁이](src/main/java/Baekjoon/problem2309.java)
 * 2455 - [지능형 기차](src/main/java/Baekjoon/problem2455.java)
