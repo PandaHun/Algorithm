@@ -1,21 +1,16 @@
 # Algorithm
 
----
 
 Language: JAVA
 
 ## 목표
-
----
 
 * 각종 코딩 테스트
 * 코드포스
 
 
 
-### 푼 문제들
-
----
+## 푼 문제들
 
 <details>
     <summary>백준</summary>
@@ -36,8 +31,9 @@ Language: JAVA
 * 2667 - [단지번호붙이기](src/main/java/Baekjoon/problem2667.java)
 * 3055 - [탈출](src/main/java/Baekjoon/problem3055.java)
 * 4963 - [섬의 개수](src/main/java/Baekjoon/problem4963.java)
+* 5052 - [전화번호 목록](src/main/java/Baekjoon/problem5052.java)
 * 7562 - [나이트의 이동](src/main/java/Baekjoon/problem7562.java)
-* 7576 - [토마토](src/main/java/Baekjoon/problem7576.java) / [[blog]](https://freepanda.tistory.com/entry/BOJ-7576-%ED%86%A0%EB%A7%88%ED%86%A0JAVA?category=835732)
+* 7576 - [토마토](src/main/java/Baekjoon/problem7576.java)
 * 10779 - [쇠 막대기](src/main/java/Baekjoon/problem10799.java)
 * 11047 - [동전0](src/main/java/Baekjoon/problem11047.java)
 * 11399 - [ATM](src/main/java/Baekjoon/problem11399.java)
@@ -61,6 +57,7 @@ Language: JAVA
 * 17143 - [낚시왕](src/main/java/Baekjoon/problem17143.java) 
 * 17144 - [미세먼지 안녕!](src/main/java/Baekjoon/problem17144.java)
 * 17608 - [막대기](src/main/java/Baekjoon/problem17608.java)
+* 17822 - [원판 돌리기](src/main/java/Baekjoon/problem17822.java)
 
 </details>
 
@@ -96,7 +93,8 @@ Language: JAVA
 * [S/W 문제해결 기본 3일차 - 회문1](src/main/java/SWExpertAcademy/problem1215.java)
 * [S/W 문제해결 기본 3일차 - 회문2](src/main/java/SWExpertAcademy/problem1216.java)
 * [S/W 문제해결 기본 4일차 - 거듭 제곱](src/main/java/SWExpertAcademy/problem1217.java)
-* [S/W 문제해결 기본 4일차 - 괄호 짝짓기](src/main/java/SWExpertAcademy/problem1218.java)[S/W 문제해결 기본 4일차 - 길찾기](src/main/java/SWExpertAcademy/problem1219.java)
+* [S/W 문제해결 기본 4일차 - 괄호 짝짓기](src/main/java/SWExpertAcademy/problem1218.java)
+* [S/W 문제해결 기본 4일차 - 길찾기](src/main/java/SWExpertAcademy/problem1219.java)
 * [S/W 문제해결 기본 6일차 - 계산기1](src/main/java/SWExpertAcademy/problem1222.java)
 * [S/W 문제해결 기본 6일차 - 계산기2](src/main/java/SWExpertAcademy/problem1223.java)
 * [S/W 문제해결 기본 7일차 - 암호생성기](src/main/java/SWExpertAcademy/problem1225.java)
