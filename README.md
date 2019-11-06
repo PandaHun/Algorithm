@@ -23,6 +23,7 @@ Language: JAVA
 * 1260 - [DFS와 BFS](src/main/java/Baekjoon/problem1260.java)
 * 1697 - [숨바꼭질](src/main/java/Baekjoon/problem1697.java)
 * 1717 - [집합의 표현](src/main/java/Baekjoon/problem1717.java)
+* 1747 - [소수&펠린드롬](src/main/java/Baekjoon/problem1747.java)
 * 1946 - [신입사원](src/main/java/Baekjoon/problem1946.java)
 * 1987 - [알파벳](src/main/java/Baekjoon/problem1987.java)
 * 2178 - [미로 탐색](src/main/java/Baekjoon/problem2178.java)
