@@ -115,5 +115,6 @@ Language: JAVA
 * [정사각형의 방](src/main/java/SWExpertAcademy/problem1861.java)
 * [농작물 수확하기](src/main/java/SWExpertAcademy/problem2805.java)
 * [부분수열의 합](src/main/java/SWExpertAcademy/problem2817.java)
+* [가능한 시험 점수](src/main/java/SWExpertAcademy/problem3752.java)
 * [치즈 도둑](src/main/java/SWExpertAcademy/problem7733.java)
   </details>
