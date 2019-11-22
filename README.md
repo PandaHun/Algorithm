@@ -22,6 +22,7 @@ Language: JAVA
 * 1026 - [보물](src/main/java/Baekjoon/problem1026.java)
 * 1260 - [DFS와 BFS](src/main/java/Baekjoon/problem1260.java)
 * 1697 - [숨바꼭질](src/main/java/Baekjoon/problem1697.java)
+* 1700 - [멀티탭 스케쥴링](src/main/java/Baekjoon/problem1700.java)
 * 1717 - [집합의 표현](src/main/java/Baekjoon/problem1717.java)
 * 1747 - [소수&펠린드롬](src/main/java/Baekjoon/problem1747.java)
 * 1946 - [신입사원](src/main/java/Baekjoon/problem1946.java)
