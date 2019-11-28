@@ -64,6 +64,7 @@ Language: JAVA
 * 17144 - [미세먼지 안녕!](src/main/java/Baekjoon/problem17144.java)
 * 17471 - [게리 맨더링](src/main/java/Baekjoon/problem17471.java)
 * 17608 - [막대기](src/main/java/Baekjoon/problem17608.java)
+* 17779 - [게리 맨더링 2](src/main/java/Baekjoon/problem17779.java)
 * 17822 - [원판 돌리기](src/main/java/Baekjoon/problem17822.java)
 
 </details>
