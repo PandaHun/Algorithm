@@ -21,6 +21,7 @@ Language: JAVA
 * 1018 - [체스판 다시 칠하기](src/main/java/Baekjoon/problem1018.java)
 * 1026 - [보물](src/main/java/Baekjoon/problem1026.java)
 * 1260 - [DFS와 BFS](src/main/java/Baekjoon/problem1260.java)
+* 1620 - [나는야 포켓몬 마스터 이다솜](src/main/java/Baekjoon/problem1620.java)
 * 1697 - [숨바꼭질](src/main/java/Baekjoon/problem1697.java)
 * 1700 - [멀티탭 스케쥴링](src/main/java/Baekjoon/problem1700.java)
 * 1717 - [집합의 표현](src/main/java/Baekjoon/problem1717.java)
