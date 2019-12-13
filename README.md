@@ -26,6 +26,7 @@ Language: JAVA
 * 1700 - [멀티탭 스케쥴링](src/main/java/Baekjoon/problem1700.java)
 * 1717 - [집합의 표현](src/main/java/Baekjoon/problem1717.java)
 * 1747 - [소수&펠린드롬](src/main/java/Baekjoon/problem1747.java)
+* 1759 - [암호 만들기](src/main/java/Baekjoon/problem1759.java)
 * 1946 - [신입사원](src/main/java/Baekjoon/problem1946.java)
 * 1987 - [알파벳](src/main/java/Baekjoon/problem1987.java)
 * 2178 - [미로 탐색](src/main/java/Baekjoon/problem2178.java)
