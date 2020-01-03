@@ -75,8 +75,9 @@ Language: JAVA
 <details>
     <summary> 프로그래머스</summary>
 
-​    
-
+* 스택 & 큐
+    * [프린터](src/main/java/Programmers/stackAndQueue/Printer.java)
+    * [탑](src/main/java/Programmers/stackAndQueue/Top.java)
 * [카펫](src/main/java/Programmers/Carpet.java)
 * [순열 검사](src/main/java/Programmers/CheckPermutation.java)
 * [자릿수 더하기](src/main/java/Programmers/DigitSum.java)
