@@ -56,6 +56,7 @@ Language: JAVA
 * 14889 - [스타트와 링크](src/main/java/Baekjoon/problem14889.java)
 * 14890 - [경사로](src/main/java/Baekjoon/problem14890.java)
 * 14891 - [톱니바퀴](src/main/java/Baekjoon/problem14891.java)
+* 15649 - [N과 M(1)](src/main/java/Baekjoon/problem15649.java)
 * 15683 - [감시](src/main/java/Baekjoon/problem15683.java)
 * 15686 - [치킨 배달](src/main/java/Baekjoon/problem15686.java)
 * 16234 - [인구 이동](src/main/java/Baekjoon/problem16234.java)
@@ -121,5 +122,6 @@ Language: JAVA
 * [농작물 수확하기](src/main/java/SWExpertAcademy/problem2805.java)
 * [부분수열의 합](src/main/java/SWExpertAcademy/problem2817.java)
 * [가능한 시험 점수](src/main/java/SWExpertAcademy/problem3752.java)
+* [햄버거 다이어트](src/main/java/SWExpertAcademy/problem5215.java)
 * [치즈 도둑](src/main/java/SWExpertAcademy/problem7733.java)
   </details>
