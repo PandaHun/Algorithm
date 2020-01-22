@@ -12,3 +12,4 @@ gradlew
 *.gradle
 .gitattributes
 CodeForces
+src/main/java/Baekjoon/problem10872.java
