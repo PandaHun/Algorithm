@@ -56,7 +56,7 @@ public class problem1211 {
         int c = start;
         int distance = 0;
         visited[r][c] = true;
-        while (r  < 99) {
+        while (r < 99) {
 
             for (int k = 0; k < 3; k++) {
                 int nr = r + dr[k];
