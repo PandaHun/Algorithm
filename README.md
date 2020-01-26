@@ -112,6 +112,7 @@ Language: JAVA
 * [S/W 문제해결 기본 4일차 - 괄호 짝짓기](src/main/java/SWExpertAcademy/problem1218.java)
 * [S/W 문제해결 기본 4일차 - 길찾기](src/main/java/SWExpertAcademy/problem1219.java)
 * [S/W 문제해결 기본 5일차 - Magnetic](src/main/java/SWExpertAcademy/problem1220.java)
+* [S/W 문제해결 기본 5일차 - GNS](src/main/java/SWExpertAcademy/problem1221.java)
 * [S/W 문제해결 기본 6일차 - 계산기1](src/main/java/SWExpertAcademy/problem1222.java)
 * [S/W 문제해결 기본 6일차 - 계산기2](src/main/java/SWExpertAcademy/problem1223.java)
 * [S/W 문제해결 기본 7일차 - 암호생성기](src/main/java/SWExpertAcademy/problem1225.java)
