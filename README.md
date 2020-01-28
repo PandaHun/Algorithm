@@ -122,6 +122,7 @@ Language: JAVA
 * [S/W 문제해결 기본 8일차 - 암호문3](src/main/java/SWExpertAcademy/problem1230.java)
 * [S/W 문제해결 응용 1일차 - 단순 2진 암호코드](src/main/java/SWExpertAcademy/problem1240.java)
 * [S/W 문제해결 응용 2일차 - 최대 상금](src/main/java/SWExpertAcademy/problem1244.java)
+* [S/W 문제해결 응용 4일차 - 보급로](src/main/java/SWExpertAcademy/problem1249.java)
 * [수도 요금 경쟁](src/main/java/SWExpertAcademy/problem1284.java)
 * [정사각형의 방](src/main/java/SWExpertAcademy/problem1861.java)
 * [농작물 수확하기](src/main/java/SWExpertAcademy/problem2805.java)
