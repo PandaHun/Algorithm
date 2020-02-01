@@ -11,8 +11,8 @@ public class problem16236 {
     private static int[][] map;
     private static int[][] distances;
     private static boolean[][] visited;
-    private static Pos shark;
-    private static List<Pos> fishs;
+    private static Fish shark;
+    private static List<Fish> fishs;
     private static int sharkSize = 2;
     private static int sharkEat = 0;
     private static int answer = 0;
@@ -29,7 +29,7 @@ public class problem16236 {
             for (int c = 0; c < N; c++) {
                 map[r][c] = Integer.parseInt(st.nextToken());
                 if (map[r][c] == 9) {
-                    shark = new Pos(r, c, 0);
+                    shark = new Fish(r, c, 0);
                     map[r][c] = 0;
                 }
             }
@@ -56,7 +56,7 @@ public class problem16236 {
             for(int i = 0 ; i < N; i++) {
                 for(int j = 0 ; j < N ; j++) {
                     if( map[i][j] < sharkSize && map[i][j] > 0 && distances[i][j] == min) {
-                        fishs.add(new Pos(i,j,0));
+                        fishs.add(new Fish(i,j,0));
                     }
                 }
             }
@@ -80,13 +80,13 @@ public class problem16236 {
             }else {
                 int minR = Integer.MAX_VALUE;
 
-                for( Pos now : fishs) {
+                for( Fish now : fishs) {
                     minR = Math.min(now.r, minR);
                 }
                 int minC = Integer.MAX_VALUE;
                 int minAmount = 0;
 
-                for(Pos now : fishs) {
+                for(Fish now : fishs) {
                     if( now.r == minR) {
                         minAmount++;
                         minC = Math.min(minC, now.c);
@@ -95,7 +95,7 @@ public class problem16236 {
                 if(minAmount == 1) {
                     int fishR = 0;
                     int fishC = 0;
-                    for (Pos now : fishs) {
+                    for (Fish now : fishs) {
                         if (now.r == minR) {
                             fishR = now.r;
                             fishC = now.c;
@@ -116,7 +116,7 @@ public class problem16236 {
                 }else{
                     int fishR = 0;
                     int fishC = 0;
-                    for(Pos now : fishs) {
+                    for(Fish now : fishs) {
                         if(now.r == minR && now.c == minC) {
                             fishR = now.r;
                             fishC = now.c;
@@ -140,15 +140,15 @@ public class problem16236 {
     }
 
     private static void findDistances() {
-        Queue<Pos> queue = new LinkedList<>();
+        Queue<Fish> queue = new LinkedList<>();
         int r = shark.r;
         int c = shark.c;
         int value = 0;
         distances[r][c] = value;
         visited[r][c] = true;
-        queue.add(new Pos(r, c, value));
+        queue.add(new Fish(r, c, value));
         while (!queue.isEmpty()) {
-            Pos now = queue.poll();
+            Fish now = queue.poll();
             for (int k = 0; k < 4; k++) {
                 int nr = now.r + dr[k];
                 int nc = now.c + dc[k];
@@ -158,7 +158,7 @@ public class problem16236 {
                     continue;
                 }
                 if (!visited[nr][nc] && map[nr][nc] <= sharkSize) {
-                    queue.add(new Pos(nr, nc, nValue+1));
+                    queue.add(new Fish(nr, nc, nValue+1));
                     distances[nr][nc] = nValue+1;
                     visited[nr][nc] = true;
                 }
@@ -167,12 +167,12 @@ public class problem16236 {
     }
 }
 
-class Pos {
+class Fish {
     int r;
     int c;
     int value;
 
-    public Pos(int r, int c, int value) {
+    public Fish(int r, int c, int value) {
         this.r = r;
         this.c = c;
         this.value = value;
