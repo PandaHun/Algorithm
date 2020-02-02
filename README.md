@@ -40,6 +40,7 @@ Language: JAVA
 * 2606 - [바이러스](src/main/java/Baekjoon/problem2606.java)
 * 2661 - [좋은 수열](src/main/java/Baekjoon/problem2661.java)
 * 2667 - [단지번호붙이기](src/main/java/Baekjoon/problem2667.java)
+* 2805 - [나무 자르기](src/main/java/Baekjoon/problem2805.java)
 * 3055 - [탈출](src/main/java/Baekjoon/problem3055.java)
 * 3694 - [로봇 프로젝트](src/main/java/Baekjoon/problem3694.java)
 * 4963 - [섬의 개수](src/main/java/Baekjoon/problem4963.java)
