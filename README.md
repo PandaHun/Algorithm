@@ -29,6 +29,7 @@ Language: JAVA
 * 1717 - [집합의 표현](src/main/java/Baekjoon/problem1717.java)
 * 1747 - [소수&펠린드롬](src/main/java/Baekjoon/problem1747.java)
 * 1759 - [암호 만들기](src/main/java/Baekjoon/problem1759.java)
+* 1806 - [부분 합](src/main/java/Baekjoon/problem1806.java)
 * 1946 - [신입사원](src/main/java/Baekjoon/problem1946.java)
 * 1987 - [알파벳](src/main/java/Baekjoon/problem1987.java)
 * 2003 - [수들의 합](src/main/java/Baekjoon/problem2003.java)
