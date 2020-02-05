@@ -53,6 +53,7 @@ Language: JAVA
 * 11047 - [동전0](src/main/java/Baekjoon/problem11047.java)
 * 11399 - [ATM](src/main/java/Baekjoon/problem11399.java)
 * 11403 - [경로 찾기](src/main/java/Baekjoon/problem11403.java)
+* 11404 - [플로이드](src/main/java/Baekjoon/problem11404.java)
 * 11449 - [Puyo Puyo](src/main/java/Baekjoon/problem11559.java)
 * 13460 - [구슬 탈출](src/main/java/Baekjoon/problem13460.java)
 * 14499 - [주사위 굴리기](src/main/java/Baekjoon/problem14499.java)
