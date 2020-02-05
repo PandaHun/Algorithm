@@ -33,6 +33,7 @@ Language: JAVA
 * 1946 - [신입사원](src/main/java/Baekjoon/problem1946.java)
 * 1987 - [알파벳](src/main/java/Baekjoon/problem1987.java)
 * 2003 - [수들의 합](src/main/java/Baekjoon/problem2003.java)
+* 2042 - [구간 합 구하기](src/main/java/Baekjoon/problem2042.java)
 * 2178 - [미로 탐색](src/main/java/Baekjoon/problem2178.java)
 * 2309 - [일곱 난쟁이](src/main/java/Baekjoon/problem2309.java)
 * 2455 - [지능형 기차](src/main/java/Baekjoon/problem2455.java)
