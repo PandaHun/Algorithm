@@ -61,6 +61,7 @@ Language: JAVA
 * 12100 - [2048(easy)](src/main/java/Baekjoon/problem12100.java)
 * 13460 - [구슬 탈출](src/main/java/Baekjoon/problem13460.java)
 * 14499 - [주사위 굴리기](src/main/java/Baekjoon/problem14499.java)
+* 14500 - [테트로미노](src/main/java/Baekjoon/problem14500.java)
 * 14501 - [퇴사](src/main/java/Baekjoon/problem14501.java)
 * 14502 - [연구소](src/main/java/Baekjoon/problem14502.java)
 * 14503 - [로봇 청소기](src/main/java/Baekjoon/problem14503.java)
