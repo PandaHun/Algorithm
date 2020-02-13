@@ -76,6 +76,7 @@ Language: JAVA
 * 15654 - [N과 M(5)](src/main/java/Baekjoon/problem15654.java)
 * 15655 - [N과 M(6)](src/main/java/Baekjoon/problem15655.java)
 * 15683 - [감시](src/main/java/Baekjoon/problem15683.java)
+* 15684 - [사다리 조작](src/main/java/Baekjoon/problem15684.java)
 * 15685 - [드래곤 커브](src/main/java/Baekjoon/problem15685.java)
 * 15686 - [치킨 배달](src/main/java/Baekjoon/problem15686.java)
 * 16234 - [인구 이동](src/main/java/Baekjoon/problem16234.java)
