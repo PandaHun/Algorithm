@@ -150,6 +150,7 @@ Language: JAVA
 * [부분수열의 합](src/main/java/SWExpertAcademy/problem2817.java)
 * [격자판의 숫자 이어 붙이기](src/main/java/SWExpertAcademy/problem2819.java)
 * [가능한 시험 점수](src/main/java/SWExpertAcademy/problem3752.java)
+* [자기 방으로 돌아가기](src/main/java/SWExpertAcademy/problem4408.java)
 * [햄버거 다이어트](src/main/java/SWExpertAcademy/problem5215.java)
 * [치즈 도둑](src/main/java/SWExpertAcademy/problem7733.java)
   </details>
