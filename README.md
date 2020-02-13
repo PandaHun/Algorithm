@@ -138,6 +138,8 @@ Language: JAVA
 * [S/W 문제해결 기본 8일차 - 암호문1](src/main/java/SWExpertAcademy/problem1228.java)
 * [S/W 문제해결 기본 8일차 - 암호문2](src/main/java/SWExpertAcademy/problem1229.java)
 * [S/W 문제해결 기본 8일차 - 암호문3](src/main/java/SWExpertAcademy/problem1230.java)
+* [S/W 문제해결 기본 9일차 - 중위순회](src/main/java/SWExpertAcademy/problem1231.java)
+* [S/W 문제해결 기본 9일차 - 사칙연산 유효성 검사](src/main/java/SWExpertAcademy/problem1233.java)
 * [S/W 문제해결 기본 10일차 - Contact](src/main/java/SWExpertAcademy/problem1238.java)
 * [S/W 문제해결 응용 1일차 - 단순 2진 암호코드](src/main/java/SWExpertAcademy/problem1240.java)
 * [S/W 문제해결 응용 2일차 - 최대 상금](src/main/java/SWExpertAcademy/problem1244.java)
@@ -148,6 +150,7 @@ Language: JAVA
 * [부분수열의 합](src/main/java/SWExpertAcademy/problem2817.java)
 * [격자판의 숫자 이어 붙이기](src/main/java/SWExpertAcademy/problem2819.java)
 * [가능한 시험 점수](src/main/java/SWExpertAcademy/problem3752.java)
+* [자기 방으로 돌아가기](src/main/java/SWExpertAcademy/problem4408.java)
 * [햄버거 다이어트](src/main/java/SWExpertAcademy/problem5215.java)
 * [치즈 도둑](src/main/java/SWExpertAcademy/problem7733.java)
   </details>
