@@ -1,135 +1,96 @@
 package Baekjoon;
-/*
- *  @Author: Pandahun
- *  @Content: 치킨 배달
- */
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Queue;
-import java.util.StringTokenizer;
+import java.io.OutputStreamWriter;
+import java.util.ArrayList;
 import java.util.List;
-import java.util.LinkedList;
+import java.util.StringTokenizer;
 
 public class problem15686 {
 
-    private static int N, M, home;
-    private static int[][] map;
-    private static int[] dr = {-1, 1, 0, 0};
-    private static int[] dc = {0, 0, -1, 1};
-    private static boolean[] isPicked;
-    private static List<Chicken> chickenList;
+	private static int N, M;
+	private static int[][] town, dist;
+	private static List<Dot> chiken;
+	private static boolean[] selected;
+	private static int answer;
 
-    private static int answer = Integer.MAX_VALUE;
+	public static void main(String[] args) throws IOException, NumberFormatException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+		N = Integer.parseInt(st.nextToken());
+		M = Integer.parseInt(st.nextToken());
+		chiken = new ArrayList<>();
+		town = new int[N][N];
+		for (int i = 0; i < N; i++) {
+			st = new StringTokenizer(br.readLine(), " ");
+			for (int j = 0; j < N; j++) {
+				town[i][j] = Integer.parseInt(st.nextToken());
+				if (town[i][j] == 2) {
+					chiken.add(new Dot(i, j));
+				}
+			}
+		}
+		answer = Integer.MAX_VALUE;
+		selected = new boolean[chiken.size()];
+		solve(0, 0);
+		System.out.println(answer);
+	}
 
-    public static void main( String[] args ) throws IOException, NumberFormatException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+	private static void solve(int depth, int index) {
 
-        home =0;
-        N = Integer.parseInt(st.nextToken());
-        map = new int[N][N];
-        M = Integer.parseInt(st.nextToken());
-        chickenList = new LinkedList<>();
-        int idx = 1;
+		if (depth == M) {
+			int res = bfs();
+			answer = Math.min(answer, res);
+			return;
+		}
+		if (index >= selected.length) {
+			return;
+		}
 
-        for(int i = 0 ; i < N;i++){
-            st = new StringTokenizer(br.readLine(), " ");
-            for(int j = 0 ; j<N;j++){
-                map[i][j] = Integer.parseInt(st.nextToken());
+		selected[index] = true;
+		solve(depth + 1, index + 1);
+		selected[index] = false;
+		solve(depth, index + 1);
+	}
 
-                if(map[i][j] == 2){
-                    chickenList.add(new Chicken(i,j,idx++));
-                }
-                if(map[i][j] == 1)
-                    home++;
-            }
-        }
-        isPicked = new boolean[chickenList.size()];
-        solve(0,0);
+	private static int bfs() {
+		int ret = 0;
+		List<Dot> now = new ArrayList<>();
+		for (int i = 0; i < selected.length; i++) {
+			if (selected[i]) {
+				now.add(chiken.get(i));
+			}
+		}
+		for (int i = 0; i < N; i++) {
+			for (int j = 0; j < N; j++) {
+				if (town[i][j] == 1) {
+					int temp = Integer.MAX_VALUE;
+					for (Dot d : now) {
+						temp = Math.min(temp, getDist(d, i, j));
+					}
+					ret += temp;
+				}
+			}
+		}
+		return ret;
+	}
 
-        System.out.println(answer);
-    }
-
-    static void solve(int index, int depth){
-
-        if(depth == M){
-            bfs();
-            return;
-        }
-
-        if(index == chickenList.size())
-            return;
-
-        isPicked[index] = true;
-        solve(index+1, depth+1);
-        isPicked[index] = false;
-        solve(index+1, depth);
-    }
-
-    static void bfs(){
-        boolean[][] visited = new boolean[N][N];
-        Queue<Chicken> queue = new LinkedList<>();
-        int[][] nmap = new int[N][N];
-        for(int i = 0; i < isPicked.length;i++){
-            if(isPicked[i]) {
-                Chicken now = chickenList.get(i);
-                now.idx = 0;
-                queue.add(now);
-                visited[now.r][now.c] = true;
-            }
-        }
-
-        int sum = 0;
-        int homeSize = home;
-        while(!queue.isEmpty()){
-            Chicken now = queue.poll();
-
-            for(int k = 0 ; k< 4; k++){
-                int nr = now.r +dr[k];
-                int nc = now.c +dc[k];
-
-                if(nr < 0 || nc <0 || nr >=N || nc >= N) continue;
-
-                if(visited[nr][nc]) continue;
-
-                if(map[nr][nc] == 0){
-                    nmap[nr][nc] = now.idx+1;
-                    queue.add(new Chicken(nr,nc,now.idx+1));
-                    visited[nr][nc] = true;
-                }
-                else if( map[nr][nc] == 1){
-                    nmap[nr][nc] = now.idx+1;
-                    sum+=now.idx+1;
-                    homeSize--;
-                    queue.add(new Chicken(nr, nc, now.idx+1));
-                    visited[nr][nc] = true;
-                }else if(map[nr][nc] == 2){
-                    nmap[nr][nc] = now.idx+1;
-                    queue.add(new Chicken(nr,nc,now.idx+1));
-                    visited[nr][nc] = true;
-                }
-            }
-
-            if(homeSize == 0){
-                if(sum < answer)
-                    answer = sum;
-
-                return;
-            }
-        }
-    }
+	private static int getDist(Dot d1, int r, int c) {
+		return Math.abs(d1.r - r) + Math.abs(d1.c - c);
+	}
 }
 
-class Chicken{
-    int r;
-    int c;
-    int idx;
+class Dot {
 
-    public Chicken(int r, int c, int idx){
-        this.r = r;
-        this.c = c;
-        this.idx = idx;
-    }
+	int r;
+	int c;
+
+	public Dot(int r, int c) {
+		this.r = r;
+		this.c = c;
+	}
 }
