@@ -154,6 +154,7 @@ Language: JAVA
 * [수도 요금 경쟁](src/main/java/SWExpertAcademy/problem1284.java)
 * [정사각형의 방](src/main/java/SWExpertAcademy/problem1861.java)
 * [농작물 수확하기](src/main/java/SWExpertAcademy/problem2805.java)
+* [최장 경로](src/main/java/SWExpertAcademy/problem2814.java)
 * [부분수열의 합](src/main/java/SWExpertAcademy/problem2817.java)
 * [격자판의 숫자 이어 붙이기](src/main/java/SWExpertAcademy/problem2819.java)
 * [가능한 시험 점수](src/main/java/SWExpertAcademy/problem3752.java)
