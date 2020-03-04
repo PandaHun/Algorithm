@@ -22,6 +22,7 @@ Language: JAVA
 * 1026 - [보물](src/main/java/Baekjoon/problem1026.java)
 * 1110 - [더하기 사이클](src/main/java/Baekjoon/problem1110.java)
 * 1260 - [DFS와 BFS](src/main/java/Baekjoon/problem1260.java)
+* 1300 - [K번째 수](src/main/java/Baekjoon/problem1300.java)
 * 1620 - [나는야 포켓몬 마스터 이다솜](src/main/java/Baekjoon/problem1620.java)
 * 1652 - [누울 자리를 찾아라](src/main/java/Baekjoon/problem1652.java)
 * 1697 - [숨바꼭질](src/main/java/Baekjoon/problem1697.java)
