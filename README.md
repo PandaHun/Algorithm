@@ -65,6 +65,7 @@ Language: JAVA
 * 11449 - [Puyo Puyo](src/main/java/Baekjoon/problem11559.java)
 * 12100 - [2048(easy)](src/main/java/Baekjoon/problem12100.java)
 * 12105 - [가장 긴 증가하는 부분 수열2](src/main/java/Baekjoon/problem12100.java)
+* 12738 - [가장 긴 증가하는 부분 수열3](src/main/java/Baekjoon/problem12738.java)
 * 13460 - [구슬 탈출](src/main/java/Baekjoon/problem13460.java)
 * 14499 - [주사위 굴리기](src/main/java/Baekjoon/problem14499.java)
 * 14500 - [테트로미노](src/main/java/Baekjoon/problem14500.java)
