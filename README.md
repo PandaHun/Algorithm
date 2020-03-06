@@ -52,6 +52,7 @@ Language: JAVA
 * 3694 - [로봇 프로젝트](src/main/java/Baekjoon/problem3694.java)
 * 4963 - [섬의 개수](src/main/java/Baekjoon/problem4963.java)
 * 5052 - [전화번호 목록](src/main/java/Baekjoon/problem5052.java)
+* 5373 - [큐빙](src/main/java/Baekjoon/problem5373.java)
 * 6558 - [골드바흐의 추측](src/main/java/Baekjoon/problem6558.java)
 * 7562 - [나이트의 이동](src/main/java/Baekjoon/problem7562.java)
 * 7576 - [토마토](src/main/java/Baekjoon/problem7576.java)
