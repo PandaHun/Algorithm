@@ -29,6 +29,7 @@ Language: JAVA
 * 1700 - [멀티탭 스케쥴링](src/main/java/Baekjoon/problem1700.java)
 * 1717 - [집합의 표현](src/main/java/Baekjoon/problem1717.java)
 * 1747 - [소수&펠린드롬](src/main/java/Baekjoon/problem1747.java)
+* 1753 - [최단 경로](src/main/java/Baekjoon/problem1753.java)
 * 1759 - [암호 만들기](src/main/java/Baekjoon/problem1759.java)
 * 1806 - [부분 합](src/main/java/Baekjoon/problem1806.java)
 * 1915 - [가장 큰 정사각형](src/main/java/Baekjoon/problem1915.java)
