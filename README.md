@@ -37,6 +37,7 @@ Language: JAVA
 * 1806 - [부분 합](src/main/java/Baekjoon/problem1806.java)
 * 1915 - [가장 큰 정사각형](src/main/java/Baekjoon/problem1915.java)
 * 1946 - [신입사원](src/main/java/Baekjoon/problem1946.java)
+* 1976 - [여행 가자](src/main/java/Baekjoon/problem1976.java)
 * 1987 - [알파벳](src/main/java/Baekjoon/problem1987.java)
 * 2003 - [수들의 합](src/main/java/Baekjoon/problem2003.java)
 * 2042 - [구간 합 구하기](src/main/java/Baekjoon/problem2042.java)
