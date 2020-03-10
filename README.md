@@ -55,6 +55,7 @@ Language: JAVA
 * 3055 - [탈출](src/main/java/Baekjoon/problem3055.java)
 * 3190 - [뱀](src/main/java/Baekjoon/problem3190.java)
 * 3694 - [로봇 프로젝트](src/main/java/Baekjoon/problem3694.java)
+* 4195 - [친구 네트워크](src/main/java/Baekjoon/problem4195.java)
 * 4963 - [섬의 개수](src/main/java/Baekjoon/problem4963.java)
 * 5052 - [전화번호 목록](src/main/java/Baekjoon/problem5052.java)
 * 5373 - [큐빙](src/main/java/Baekjoon/problem5373.java)
