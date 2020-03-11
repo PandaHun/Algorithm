@@ -25,6 +25,7 @@ Language: JAVA
 * 1153 - [네 개의 소수](src/main/java/Baekjoon/problem1153.java)
 * 1260 - [DFS와 BFS](src/main/java/Baekjoon/problem1260.java)
 * 1300 - [K번째 수](src/main/java/Baekjoon/problem1300.java)
+* 1504 - [특정한 최단 거리](src/main/java/Baekjoon/problem1504.java)
 * 1527 - [금민수의 개수](src/main/java/Baekjoon/problem1527.java)
 * 1620 - [나는야 포켓몬 마스터 이다솜](src/main/java/Baekjoon/problem1620.java)
 * 1652 - [누울 자리를 찾아라](src/main/java/Baekjoon/problem1652.java)
