@@ -176,5 +176,6 @@ Language: JAVA
 * [자기 방으로 돌아가기](src/main/java/SWExpertAcademy/problem4408.java)
 * [햄버거 다이어트](src/main/java/SWExpertAcademy/problem5215.java)
 * [수지의 수지 맞는 여행](src/main/java/SWExpertAcademy/problem7699.java)
+* [염라대왕의 이름 정렬](src/main/java/SWExpertAcademy/problem7701.java)
 * [치즈 도둑](src/main/java/SWExpertAcademy/problem7733.java)
   </details>
