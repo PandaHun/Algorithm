@@ -21,6 +21,7 @@ Language: JAVA
 * 1018 - [체스판 다시 칠하기](src/main/java/Baekjoon/problem1018.java)
 * 1019 - [책 페이지](src/main/java/Baekjoon/problem1019.java)
 * 1026 - [보물](src/main/java/Baekjoon/problem1026.java)
+* 1043 - [거짓말](src/main/java/Baekjoon/problem1043.java)
 * 1110 - [더하기 사이클](src/main/java/Baekjoon/problem1110.java)
 * 1153 - [네 개의 소수](src/main/java/Baekjoon/problem1153.java)
 * 1197 - [최소 스패닝 트리](src/main/java/Baekjoon/problem1197.java)
