@@ -72,6 +72,7 @@ Language: JAVA
 * 10779 - [쇠 막대기](src/main/java/Baekjoon/problem10799.java)
 * 10819 - [차이를 최대로](src/main/java/Baekjoon/problem10819.java)
 * 10986 - [나머지 합](src/main/java/Baekjoon/problem10986.java)
+* 10999 - [구간 합 구하기2](src/main/java/Baekjoon/problem10999.java)
 * 11047 - [동전0](src/main/java/Baekjoon/problem11047.java)
 * 11053 - [가장 긴 증가하는 부분 수열](src/main/java/Baekjoon/problem11053.java)
 * 11053 - [가장 큰 증가 부분 수열](src/main/java/Baekjoon/problem11055.java)
