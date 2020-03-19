@@ -48,6 +48,7 @@ Language: JAVA
 * 2178 - [미로 탐색](src/main/java/Baekjoon/problem2178.java)
 * 2206 - [벽 부수고 이동하기](src/main/java/Baekjoon/problem2206.java)
 * 2309 - [일곱 난쟁이](src/main/java/Baekjoon/problem2309.java)
+* 2357 - [최솟값과 최댓값](src/main/java/Baekjoon/problem2357.java)
 * 2455 - [지능형 기차](src/main/java/Baekjoon/problem2455.java)
 * 2517 - [달리기](src/main/java/Baekjoon/problem2517.java)
 * 2583 - [영역 구하기](src/main/java/Baekjoon/problem2583.java)
