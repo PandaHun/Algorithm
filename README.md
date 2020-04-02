@@ -191,6 +191,7 @@ Language: JAVA
 * [가능한 시험 점수](src/main/java/SWExpertAcademy/problem3752.java)
 * [자기 방으로 돌아가기](src/main/java/SWExpertAcademy/problem4408.java)
 * [햄버거 다이어트](src/main/java/SWExpertAcademy/problem5215.java)
+* [조합](src/main/java/SWExpertAcademy/problem5607.java)
 * [성수의 프로그래밍 강좌 시청](src/main/java/SWExpertAcademy/problem6719.java)
 * [현주가 좋아하는 제곱근 놀이](src/main/java/SWExpertAcademy/problem6782.java)
 * [수지의 수지 맞는 여행](src/main/java/SWExpertAcademy/problem7699.java)
