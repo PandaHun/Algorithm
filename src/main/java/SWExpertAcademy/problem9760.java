@@ -69,6 +69,7 @@ public class problem9760 {
                 } else if (num[i] == 1) {
                     numbers++;
                 }
+
                 if (i == 13 && num[1] == 1) {
                     numbers++;
                 }

@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
 
 public class problem5607 {
 
-    static long[] pac;
+    static long[] fact;
     static final int M = 1234567891;
 
     public static void main(String[] args) throws IOException, NumberFormatException {
@@ -18,14 +18,14 @@ public class problem5607 {
             st = new StringTokenizer(br.readLine(), " ");
             int N = Integer.parseInt(st.nextToken());
             int R = Integer.parseInt(st.nextToken());
-            pac = new long[N + 1];
-            pac[0] = 1;
+            fact = new long[N + 1];
+            fact[0] = 1;
             for (int i = 1; i <= N; i++) {
-                pac[i] = (pac[i - 1] * i) % M;
+                fact[i] = (fact[i - 1] * i) % M;
             }
-            long t = (pac[R] * pac[N - R]) % M;
+            long t = (fact[R] * fact[N - R]) % M;
             long a = fermat(t, M - 2);
-            bw.write((a * pac[N]) % M + "\n");
+            bw.write((a * fact[N]) % M + "\n");
         }
         bw.flush();
     }
