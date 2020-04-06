@@ -145,6 +145,7 @@ Language: JAVA
 * [스킬 트리](src/main/java/Programmers/SkillTree.java)
 * [프렌즈 4 블록](src/main/java/Programmers/Friends4Block.java)
 * [가장 먼 노드](src/main/java/Programmers/FarthestNode.java)
+* [길 찾기 게임](src/main/java/Programmers/FindRouteGame.java)
 </details>
 
 
@@ -196,7 +197,7 @@ Language: JAVA
 * [현주가 좋아하는 제곱근 놀이](src/main/java/SWExpertAcademy/problem6782.java)
 * [수지의 수지 맞는 여행](src/main/java/SWExpertAcademy/problem7699.java)
 * [염라대왕의 이름 정렬](src/main/java/SWExpertAcademy/problem7701.java)
-* [치즈 도둑](src/main/java/SWExpertAcademy/problem7733.java)
+* [치즈 도둑]src/main/java/SWExpertAcademy/problem7733.java)
 * [다항식 계산](src/main/java/SWExpertAcademy/problem9659.java)
 * [Poker Game](src/main/java/SWExpertAcademy/problem9760.java)
   </details>
