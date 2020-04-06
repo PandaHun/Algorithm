@@ -197,5 +197,6 @@ Language: JAVA
 * [수지의 수지 맞는 여행](src/main/java/SWExpertAcademy/problem7699.java)
 * [염라대왕의 이름 정렬](src/main/java/SWExpertAcademy/problem7701.java)
 * [치즈 도둑](src/main/java/SWExpertAcademy/problem7733.java)
+* [다항식 계산](src/main/java/SWExpertAcademy/problem9659.java)
 * [Poker Game](src/main/java/SWExpertAcademy/problem9760.java)
   </details>
