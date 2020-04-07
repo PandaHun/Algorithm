@@ -39,6 +39,7 @@ Language: JAVA
 * 1747 - [소수&펠린드롬](src/main/java/Baekjoon/problem1747.java)
 * 1753 - [최단 경로](src/main/java/Baekjoon/problem1753.java)
 * 1759 - [암호 만들기](src/main/java/Baekjoon/problem1759.java)
+* 1766 - [문제집](src/main/java/Baekjoon/problem1766.java)
 * 1806 - [부분 합](src/main/java/Baekjoon/problem1806.java)
 * 1915 - [가장 큰 정사각형](src/main/java/Baekjoon/problem1915.java)
 * 1946 - [신입사원](src/main/java/Baekjoon/problem1946.java)
