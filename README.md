@@ -185,6 +185,7 @@ Language: JAVA
 * [S/W 문제해결 응용 2일차 - 최대 상금](src/main/java/SWExpertAcademy/problem1244.java)
 * [S/W 문제해결 응용 3일차 - 최적 경로](src/main/java/SWExpertAcademy/problem1247.java)
 * [S/W 문제해결 응용 4일차 - 보급로](src/main/java/SWExpertAcademy/problem1249.java)
+* [S/W 문제해결 응용 4일차 - 하나로](src/main/java/SWExpertAcademy/problem1251.java)
 * [수도 요금 경쟁](src/main/java/SWExpertAcademy/problem1284.java)
 * [정사각형의 방](src/main/java/SWExpertAcademy/problem1861.java)
 * [농작물 수확하기](src/main/java/SWExpertAcademy/problem2805.java)
@@ -199,7 +200,7 @@ Language: JAVA
 * [현주가 좋아하는 제곱근 놀이](src/main/java/SWExpertAcademy/problem6782.java)
 * [수지의 수지 맞는 여행](src/main/java/SWExpertAcademy/problem7699.java)
 * [염라대왕의 이름 정렬](src/main/java/SWExpertAcademy/problem7701.java)
-* [치즈 도둑]src/main/java/SWExpertAcademy/problem7733.java)
+* [치즈 도둑](src/main/java/SWExpertAcademy/problem7733.java)
 * [다항식 계산](src/main/java/SWExpertAcademy/problem9659.java)
 * [Poker Game](src/main/java/SWExpertAcademy/problem9760.java)
   </details>
