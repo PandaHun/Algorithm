@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class problem17472 {
+public class problem17142 {
 
     private static int N;
     private static int M;
