@@ -32,6 +32,7 @@ Language: JAVA
 * 1504 - [특정한 최단 거리](src/main/java/Baekjoon/problem1504.java)
 * 1527 - [금민수의 개수](src/main/java/Baekjoon/problem1527.java)
 * 1620 - [나는야 포켓몬 마스터 이다솜](src/main/java/Baekjoon/problem1620.java)
+* 1647 - [도시 분할 계획](src/main/java/Baekjoon/problem1647.java)
 * 1652 - [누울 자리를 찾아라](src/main/java/Baekjoon/problem1652.java)
 * 1697 - [숨바꼭질](src/main/java/Baekjoon/problem1697.java)
 * 1700 - [멀티탭 스케쥴링](src/main/java/Baekjoon/problem1700.java)
