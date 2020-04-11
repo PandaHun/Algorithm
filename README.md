@@ -73,6 +73,7 @@ Language: JAVA
 * 5052 - [전화번호 목록](src/main/java/Baekjoon/problem5052.java)
 * 5373 - [큐빙](src/main/java/Baekjoon/problem5373.java)
 * 5719 - [거의 최단 경로](src/main/java/Baekjoon/problem5719.java)
+* 6497 - [전력난](src/main/java/Baekjoon/problem6497.java)
 * 6558 - [골드바흐의 추측](src/main/java/Baekjoon/problem6558.java)
 * 7562 - [나이트의 이동](src/main/java/Baekjoon/problem7562.java)
 * 7576 - [토마토](src/main/java/Baekjoon/problem7576.java)
