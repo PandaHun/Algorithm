@@ -64,6 +64,7 @@ Language: JAVA
 * 2661 - [좋은 수열](src/main/java/Baekjoon/problem2661.java)
 * 2667 - [단지번호붙이기](src/main/java/Baekjoon/problem2667.java)
 * 2805 - [나무 자르기](src/main/java/Baekjoon/problem2805.java)
+* 2887 - [행성 터널](src/main/java/Baekjoon/problem2887.java)
 * 3055 - [탈출](src/main/java/Baekjoon/problem3055.java)
 * 3190 - [뱀](src/main/java/Baekjoon/problem3190.java)
 * 3649 - [로봇 프로젝트](src/main/java/Baekjoon/problem3649.java)
