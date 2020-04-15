@@ -25,6 +25,7 @@ Language: JAVA
 * 1110 - [더하기 사이클](src/main/java/Baekjoon/problem1110.java)
 * 1153 - [네 개의 소수](src/main/java/Baekjoon/problem1153.java)
 * 1197 - [최소 스패닝 트리](src/main/java/Baekjoon/problem1197.java)
+* 1238 - [파티](src/main/java/Baekjoon/problem1238.java)
 * 1242 - [소풍](src/main/java/Baekjoon/problem1242.java)
 * 1260 - [DFS와 BFS](src/main/java/Baekjoon/problem1260.java)
 * 1275 - [커피숍2](src/main/java/Baekjoon/problem1275.java)
