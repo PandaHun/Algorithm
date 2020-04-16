@@ -59,6 +59,7 @@ Language: JAVA
 * 2357 - [최솟값과 최댓값](src/main/java/Baekjoon/problem2357.java)
 * 2455 - [지능형 기차](src/main/java/Baekjoon/problem2455.java)
 * 2517 - [달리기](src/main/java/Baekjoon/problem2517.java)
+* 2579 - [계단 오르기](src/main/java/Baekjoon/problem2579.java)
 * 2583 - [영역 구하기](src/main/java/Baekjoon/problem2583.java)
 * 2589 - [보물섬](src/main/java/Baekjoon/problem2589.java)
 * 2606 - [바이러스](src/main/java/Baekjoon/problem2606.java)
