@@ -97,6 +97,7 @@ Language: JAVA
 * 11404 - [플로이드](src/main/java/Baekjoon/problem11404.java)
 * 11505 - [구간 곱 구하기](src/main/java/Baekjoon/problem11505.java)
 * 11559 - [Puyo Puyo](src/main/java/Baekjoon/problem11559.java)
+* 11726 - [2xn 타일링](src/main/java/Baekjoon/problem11726.java)
 * 12100 - [2048(easy)](src/main/java/Baekjoon/problem12100.java)
 * 12105 - [가장 긴 증가하는 부분 수열2](src/main/java/Baekjoon/problem12100.java)
 * 12738 - [가장 긴 증가하는 부분 수열3](src/main/java/Baekjoon/problem12738.java)
