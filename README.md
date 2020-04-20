@@ -83,6 +83,7 @@ Language: JAVA
 * 7576 - [토마토](src/main/java/Baekjoon/problem7576.java)
 * 7662 - [이중 우선순위 큐](src/main/java/Baekjoon/problem7662.java)
 * 9019 - [DSLR](src/main/java/Baekjoon/problem9019.java)
+* 9095 - [1, 2, 3 더하기](src/main/java/Baekjoon/problem9095.java)
 * 9250 - [맥주 마시면서 걸어가기](src/main/java/Baekjoon/problem9250.java)
 * 10779 - [쇠 막대기](src/main/java/Baekjoon/problem10799.java)
 * 10819 - [차이를 최대로](src/main/java/Baekjoon/problem10819.java)
