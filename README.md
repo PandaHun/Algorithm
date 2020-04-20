@@ -55,6 +55,7 @@ Language: JAVA
 * 2042 - [구간 합 구하기](src/main/java/Baekjoon/problem2042.java)
 * 2146 - [다리 만들기](src/main/java/Baekjoon/problem2146.java)
 * 2178 - [미로 탐색](src/main/java/Baekjoon/problem2178.java)
+* 2193 - [이친수](src/main/java/Baekjoon/problem2193.java)
 * 2206 - [벽 부수고 이동하기](src/main/java/Baekjoon/problem2206.java)
 * 2309 - [일곱 난쟁이](src/main/java/Baekjoon/problem2309.java)
 * 2357 - [최솟값과 최댓값](src/main/java/Baekjoon/problem2357.java)
