@@ -2,7 +2,7 @@ package Baekjoon;
 
 import java.io.*;
 
-public class problme1019 {
+public class problem1019 {
 
     static int start, digit, end;
     static int[] cnt;
