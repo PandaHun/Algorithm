@@ -214,6 +214,7 @@ Language: JAVA
 * [햄버거 다이어트](src/main/java/SWExpertAcademy/problem5215.java)
 * [조합](src/main/java/SWExpertAcademy/problem5607.java)
 * [모의 SW 역량테스트 보물상자 비밀번호](src/main/java/SWExpertAcademy/problem5658.java)
+* [추억의 2048게임 ](src/main/java/SWExpertAcademy/problem6109.java)
 * [성수의 프로그래밍 강좌 시청](src/main/java/SWExpertAcademy/problem6719.java)
 * [현주가 좋아하는 제곱근 놀이](src/main/java/SWExpertAcademy/problem6782.java)
 * [수지의 수지 맞는 여행](src/main/java/SWExpertAcademy/problem7699.java)
