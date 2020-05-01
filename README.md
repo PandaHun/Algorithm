@@ -211,6 +211,7 @@ Language: JAVA
 * [격자판의 숫자 이어 붙이기](src/main/java/SWExpertAcademy/problem2819.java)
 * [가능한 시험 점수](src/main/java/SWExpertAcademy/problem3752.java)
 * [재관이의 대량 할인](src/main/java/SWExpertAcademy/problem4050.java)
+* [정식이의 은행업무](src/main/java/SWExpertAcademy/problem4366.java)
 * [자기 방으로 돌아가기](src/main/java/SWExpertAcademy/problem4408.java)
 * [햄버거 다이어트](src/main/java/SWExpertAcademy/problem5215.java)
 * [조합](src/main/java/SWExpertAcademy/problem5607.java)
