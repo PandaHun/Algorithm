@@ -165,6 +165,7 @@ Language: JAVA
 * [길 찾기 게임](src/main/java/Programmers/FindRouteGame.java)
 * [크레인 인형 뽑기](src/main/java/Programmers/Kakao_2019_Crane.java)
 * [튜플](src/main/java/Programmers/Kakao_2019_Tuple.java)
+* [문자열 압축](src/main/java/Programmers/Kakao_2020_StringCompression.java)
 </details>
 
 
