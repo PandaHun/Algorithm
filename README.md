@@ -80,6 +80,7 @@ Language: JAVA
 * 5719 - [거의 최단 경로](src/main/java/Baekjoon/problem5719.java)
 * 6497 - [전력난](src/main/java/Baekjoon/problem6497.java)
 * 6558 - [골드바흐의 추측](src/main/java/Baekjoon/problem6558.java)
+* 6987 - [올림픽](src/main/java/Baekjoon/problem6987.java)
 * 7562 - [나이트의 이동](src/main/java/Baekjoon/problem7562.java)
 * 7576 - [토마토](src/main/java/Baekjoon/problem7576.java)
 * 7662 - [이중 우선순위 큐](src/main/java/Baekjoon/problem7662.java)
