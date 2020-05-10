@@ -169,6 +169,7 @@ Language: JAVA
 * [문자열 압축](src/main/java/Programmers/Kakao_2020_StringCompression.java)
 * [캐시](src/main/java/Programmers/Kakao_2018_Cache.java)
 * [비밀지도](src/main/java/Programmers/Kakao_2018_SecretMap.java)
+* [뉴스 클러스터링](src/main/java/Programmers/Kakao_2018_NewsClustering.java)
 </details>
 
 
