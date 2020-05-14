@@ -220,6 +220,7 @@ Language: JAVA
 * [자기 방으로 돌아가기](src/main/java/SWExpertAcademy/problem4408.java)
 * [햄버거 다이어트](src/main/java/SWExpertAcademy/problem5215.java)
 * [조합](src/main/java/SWExpertAcademy/problem5607.java)
+* [키 순서](src/main/java/SWExpertAcademy/problem5643.java)
 * [모의 SW 역량테스트 보물상자 비밀번호](src/main/java/SWExpertAcademy/problem5658.java)
 * [추억의 2048게임 ](src/main/java/SWExpertAcademy/problem6109.java)
 * [성수의 프로그래밍 강좌 시청](src/main/java/SWExpertAcademy/problem6719.java)
