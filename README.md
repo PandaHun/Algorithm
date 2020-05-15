@@ -48,6 +48,7 @@ Language: JAVA
 * 1806 - [부분 합](src/main/java/Baekjoon/problem1806.java)
 * 1915 - [가장 큰 정사각형](src/main/java/Baekjoon/problem1915.java)
 * 1922 - [네트워크 연결](src/main/java/Baekjoon/problem1922.java)
+* 1941 - [소문난 칠 공주](src/main/java/Baekjoon/problem1941.java)
 * 1946 - [신입사원](src/main/java/Baekjoon/problem1946.java)
 * 1976 - [여행 가자](src/main/java/Baekjoon/problem1976.java)
 * 1987 - [알파벳](src/main/java/Baekjoon/problem1987.java)
