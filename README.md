@@ -69,6 +69,7 @@ Language: JAVA
 * 2583 - [영역 구하기](src/main/java/Baekjoon/problem2583.java)
 * 2589 - [보물섬](src/main/java/Baekjoon/problem2589.java)
 * 2606 - [바이러스](src/main/java/Baekjoon/problem2606.java)
+* 2636 - [치즈](src/main/java/Baekjoon/problem2636.java)
 * 2661 - [좋은 수열](src/main/java/Baekjoon/problem2661.java)
 * 2667 - [단지번호붙이기](src/main/java/Baekjoon/problem2667.java)
 * 2805 - [나무 자르기](src/main/java/Baekjoon/problem2805.java)
