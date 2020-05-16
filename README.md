@@ -31,6 +31,7 @@ Language: JAVA
 * 1275 - [커피숍2](src/main/java/Baekjoon/problem1275.java)
 * 1300 - [K번째 수](src/main/java/Baekjoon/problem1300.java)
 * 1463 - [1로 만들기](src/main/java/Baekjoon/problem1463.java)
+* 1484 - [다이어트](src/main/java/Baekjoon/problem1484.java)
 * 1504 - [특정한 최단 거리](src/main/java/Baekjoon/problem1504.java)
 * 1527 - [금민수의 개수](src/main/java/Baekjoon/problem1527.java)
 * 1620 - [나는야 포켓몬 마스터 이다솜](src/main/java/Baekjoon/problem1620.java)
