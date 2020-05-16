@@ -65,6 +65,7 @@ Language: JAVA
 * 2357 - [최솟값과 최댓값](src/main/java/Baekjoon/problem2357.java)
 * 2455 - [지능형 기차](src/main/java/Baekjoon/problem2455.java)
 * 2458 - [키 순서](src/main/java/Baekjoon/problem2458.java)
+* 2467 - [용액](src/main/java/Baekjoon/problem2467.java)
 * 2468 - [안전 영역](src/main/java/Baekjoon/problem2468.java)
 * 2517 - [달리기](src/main/java/Baekjoon/problem2517.java)
 * 2579 - [계단 오르기](src/main/java/Baekjoon/problem2579.java)
