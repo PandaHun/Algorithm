@@ -67,6 +67,7 @@ Language: JAVA
 * 2458 - [키 순서](src/main/java/Baekjoon/problem2458.java)
 * 2467 - [용액](src/main/java/Baekjoon/problem2467.java)
 * 2468 - [안전 영역](src/main/java/Baekjoon/problem2468.java)
+* 2470 - [두 용액](src/main/java/Baekjoon/problem2470.java)
 * 2517 - [달리기](src/main/java/Baekjoon/problem2517.java)
 * 2579 - [계단 오르기](src/main/java/Baekjoon/problem2579.java)
 * 2583 - [영역 구하기](src/main/java/Baekjoon/problem2583.java)
