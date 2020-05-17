@@ -105,6 +105,7 @@ Language: JAVA
 * 11047 - [동전0](src/main/java/Baekjoon/problem11047.java)
 * 11053 - [가장 긴 증가하는 부분 수열](src/main/java/Baekjoon/problem11053.java)
 * 11053 - [가장 큰 증가 부분 수열](src/main/java/Baekjoon/problem11055.java)
+* 11375 - [열혈강호](src/main/java/Baekjoon/problem11375.java)
 * 11399 - [ATM](src/main/java/Baekjoon/problem11399.java)
 * 11403 - [경로 찾기](src/main/java/Baekjoon/problem11403.java)
 * 11404 - [플로이드](src/main/java/Baekjoon/problem11404.java)
