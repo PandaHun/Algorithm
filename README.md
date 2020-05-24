@@ -226,6 +226,7 @@ Language: JAVA
 * [최장 경로](src/main/java/SWExpertAcademy/problem2814.java)
 * [부분수열의 합](src/main/java/SWExpertAcademy/problem2817.java)
 * [격자판의 숫자 이어 붙이기](src/main/java/SWExpertAcademy/problem2819.java)
+* [준환이의 양팔저울](src/main/java/SWExpertAcademy/problem3234.java)
 * [가능한 시험 점수](src/main/java/SWExpertAcademy/problem3752.java)
 * [재관이의 대량 할인](src/main/java/SWExpertAcademy/problem4050.java)
 * [정식이의 은행업무](src/main/java/SWExpertAcademy/problem4366.java)
