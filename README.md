@@ -155,6 +155,7 @@ Language: JAVA
 * 17608 - [막대기](src/main/java/Baekjoon/problem17608.java)
 * 17779 - [게리 맨더링 2](src/main/java/Baekjoon/problem17779.java)
 * 17822 - [원판 돌리기](src/main/java/Baekjoon/problem17822.java)
+* 17825 - [주사위 윷놀이](src/main/java/Baekjoon/problem17825.java)
 * 17837 - [새로운 게임2](src/main/java/Baekjoon/problem17837.java)
 
 </details>
@@ -222,6 +223,7 @@ Language: JAVA
 * [S/W 문제해결 응용 4일차 - 하나로](src/main/java/SWExpertAcademy/problem1251.java)
 * [수도 요금 경쟁](src/main/java/SWExpertAcademy/problem1284.java)
 * [정사각형의 방](src/main/java/SWExpertAcademy/problem1861.java)
+* [탈주범 검거](src/main/java/SWExpertAcademy/problem1953.java)
 * [농작물 수확하기](src/main/java/SWExpertAcademy/problem2805.java)
 * [최장 경로](src/main/java/SWExpertAcademy/problem2814.java)
 * [부분수열의 합](src/main/java/SWExpertAcademy/problem2817.java)
