@@ -184,6 +184,7 @@ Language: JAVA
 * [비밀지도](src/main/java/Programmers/Kakao_2018_SecretMap.java)
 * [뉴스 클러스터링](src/main/java/Programmers/Kakao_2018_NewsClustering.java)
 * [키패드 누르기](src/main/java/Programmers/Kakao_2020_Keypad.java)
+* [보석 쇼핑](src/main/java/Programmers/Kakao_2020_GemShopping.java)
 </details>
 
 
