@@ -185,6 +185,7 @@ Language: JAVA
 * [뉴스 클러스터링](src/main/java/Programmers/Kakao_2018_NewsClustering.java)
 * [키패드 누르기](src/main/java/Programmers/Kakao_2020_Keypad.java)
 * [보석 쇼핑](src/main/java/Programmers/Kakao_2020_GemShopping.java)
+* [수식 최대화](src/main/java/Programmers/Kakao_2020_MaximizeEquation.java)
 </details>
 
 
