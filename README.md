@@ -254,3 +254,11 @@ Language: JAVA
 * [다항식 계산](src/main/java/SWExpertAcademy/problem9659.java)
 * [Poker Game](src/main/java/SWExpertAcademy/problem9760.java)
   </details>
+
+<details>
+    <summary> Leet Code</summary>
+
+​    
+
+* [Remove Duplicates from Sorted Array](src/main/java/LeetCode/RemoveDuplicatesfromSortedArray.java)
+  </details>
