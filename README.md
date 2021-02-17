@@ -260,6 +260,7 @@ Language: JAVA
 
 ​    
 
+* [Contains Duplicate](src/main/java/LeetCode/ContainsDuplicate.java)
 * [Remove Duplicates from Sorted Array](src/main/java/LeetCode/RemoveDuplicatesfromSortedArray.java)
 * [Rotate Array](src/main/java/LeetCode/RotateArray.java)
   </details>
