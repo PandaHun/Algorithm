@@ -94,6 +94,7 @@ Language: JAVA
 * 5373 - [큐빙](src/main/java/Baekjoon/problem5373.java)
 * 5719 - [거의 최단 경로](src/main/java/Baekjoon/problem5719.java)
 * 6497 - [전력난](src/main/java/Baekjoon/problem6497.java)
+* 6549 - [히스토그램에서 가장 큰 직사각형](src/main/java/Baekjoon/problem6549.java)
 * 6558 - [골드바흐의 추측](src/main/java/Baekjoon/problem6558.java)
 * 6987 - [올림픽](src/main/java/Baekjoon/problem6987.java)
 * 7562 - [나이트의 이동](src/main/java/Baekjoon/problem7562.java)
