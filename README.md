@@ -45,6 +45,7 @@ Language: JAVA
 * 1700 - [멀티탭 스케쥴링](src/main/java/Baekjoon/problem1700.java)
 * 1707 - [이분 그래프](src/main/java/Baekjoon/problem1707.java)
 * 1717 - [집합의 표현](src/main/java/Baekjoon/problem1717.java)
+* 1717 - [히스토그램](src/main/java/Baekjoon/problem1725.java)
 * 1747 - [소수&펠린드롬](src/main/java/Baekjoon/problem1747.java)
 * 1753 - [최단 경로](src/main/java/Baekjoon/problem1753.java)
 * 1759 - [암호 만들기](src/main/java/Baekjoon/problem1759.java)
