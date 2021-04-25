@@ -98,6 +98,7 @@ Language: JAVA
 * 6987 - [올림픽](src/main/java/Baekjoon/problem6987.java)
 * 7562 - [나이트의 이동](src/main/java/Baekjoon/problem7562.java)
 * 7576 - [토마토](src/main/java/Baekjoon/problem7576.java)
+* 7578 - [공장](src/main/java/Baekjoon/problem7578.java)
 * 7662 - [이중 우선순위 큐](src/main/java/Baekjoon/problem7662.java)
 * 9019 - [DSLR](src/main/java/Baekjoon/problem9019.java)
 * 9095 - [1, 2, 3 더하기](src/main/java/Baekjoon/problem9095.java)
