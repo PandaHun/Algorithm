@@ -106,6 +106,7 @@ Language: JAVA
 * 9095 - [1, 2, 3 더하기](src/main/java/Baekjoon/problem9095.java)
 * 9205 - [맥주 마시면서 걸어가기](src/main/java/Baekjoon/problem9205.java)
 * 9251 - [LCS](src/main/java/Baekjoon/problem9251.java)
+* 9935 - [문자열 폭발](src/main/java/Baekjoon/problem9935.java)
 * 10779 - [쇠 막대기](src/main/java/Baekjoon/problem10799.java)
 * 10819 - [차이를 최대로](src/main/java/Baekjoon/problem10819.java)
 * 10986 - [나머지 합](src/main/java/Baekjoon/problem10986.java)
